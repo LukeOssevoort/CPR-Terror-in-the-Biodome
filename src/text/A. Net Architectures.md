@@ -1,0 +1,30 @@
+## Decontamination Door
+
+| Decontamination Net Arch        |
+| ------------------------------- |
+| Skunk                           |
+| Killer                          |
+| File (Facility access logs) DV8 |
+| Control Node (Door) DV8         |
+
+## Genetics Analysis Console
+
+| G.A. Console                        |                |
+| ----------------------------------- | -------------- |
+| File (emails) DV6                   |                |
+| Password DV8                        |                |
+| Sabertooth                          | Password DV8   |
+| File (formula) DV8                  | Asp            |
+| Hellhound                           |                |
+| Control Node (chemical storage) DV8 |                |
+
+## Databank
+
+| Databank Net Arch | |
+| ---- | ---- |
+| Password DV6 | |
+| Wisp | |
+| Sabertooth               | Password DV8 |
+| File (research data) DV8 | Control Node (atmospheric controls) DV8 |
+| Killer | |
+
