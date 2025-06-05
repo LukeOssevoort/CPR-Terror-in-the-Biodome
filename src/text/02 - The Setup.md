@@ -1,3 +1,5 @@
+## The Setup
+
 The PCs are contacted by a BioTechnica (BT) research facility manager, going by the rather transparent code name *Mr Blue*. A facility that he has been running remotely (a bio-dome in the university district) has gone offline and the higher ups are chasing results. This brings him to the PCs who he wants to hire to "troubleshoot" the issue at a rate of 1000eb each. 
 
 **He tells the PCs**
