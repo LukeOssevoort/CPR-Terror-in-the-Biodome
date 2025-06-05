@@ -1,0 +1,17 @@
+@page {
+    size: A4;
+    margin: 1cm;
+}
+
+@media print {
+    figure, table{
+        break-inside: avoid-page;
+    }
+    body {
+        column-count: 2;
+    }
+}
+
+p {
+    text-align: justify;
+}
