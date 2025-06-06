@@ -24,3 +24,12 @@ p, li {
     text-align: justify;
     font-family: sans-serif;
 }
+
+th, td {
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: #ABABAE;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 5px;
+}
